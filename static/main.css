@@ -1,4 +1,8 @@
 /* Global styles */
+:root {
+  scrollbar-gutter: stable both-edges;
+}
+
 body {
   background-color: #EFEFEF;
   color: #141414;
